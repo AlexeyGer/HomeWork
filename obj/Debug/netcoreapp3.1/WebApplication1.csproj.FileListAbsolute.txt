@@ -1,0 +1,158 @@
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\Курсы ИТ\C#\Projects\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Development\GIT\HomeWork\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\Development\GIT\HomeWork\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
